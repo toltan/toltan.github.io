@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "8GN3A3ALQA.com.toltan.WebViewApp",
+                    "8GN3A3ALQA.com.toltan.WebViewApp.debug"
+                ],
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
