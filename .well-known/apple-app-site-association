@@ -6,15 +6,7 @@
                     "8GN3A3ALQA.com.toltan.WebViewApp.debug"
                 ],
                 "paths": [
-                    "/debug/*"
-                ]
-            },
-            {
-                "appIDs": [
-                    "8GN3A3ALQA.com.toltan.WebViewApp",
-                ],
-                "paths": [
-                    "/release/*"
+                    "*"
                 ]
             }
         ]
