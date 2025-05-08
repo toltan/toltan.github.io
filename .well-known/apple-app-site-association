@@ -4,10 +4,17 @@
             {
                 "appIDs": [
                     "8GN3A3ALQA.com.toltan.WebViewApp",
+                ],
+                "paths": [
+                    "/release/*"
+                ]
+            },
+            {
+                "appIDs": [
                     "8GN3A3ALQA.com.toltan.WebViewApp.debug"
                 ],
                 "paths": [
-                    "*"
+                    "/debug/*"
                 ]
             }
         ]
