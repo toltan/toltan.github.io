@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "jp.co.nissay.dc_robo.develop",
+    "package_name": "com.example.webviewappandroid.debug",
     "sha256_cert_fingerprints":
-    ["8A:C1:DD:D0:08:84:3D:25:99:2D:C7:55:DF:5B:AD:6D:EE:A3:60:FA:75:8D:4E:40:AC:0B:D9:DA:88:A3:4A:70"]
+    ["68:CD:9D:D8:F7:40:EC:EB:E4:B2:5F:DE:53:56:7A:6F:86:CA:35:95:17:7B:0D:32:44:E5:C0:BD:19:15:EB:B0"]
   }
 }]
